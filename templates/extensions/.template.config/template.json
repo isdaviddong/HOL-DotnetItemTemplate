@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "作者名稱",
+  "classifications": [ "Common", "Code" ],
+  "identity": "Company.Namespace.ItemTempalteName",
+  "name": "Company.Namespace.ItemTempalteName",
+  "shortName": "mycustlib",
+  "tags": {
+    "language": "C#",
+    "type": "item"
+  }
+}
