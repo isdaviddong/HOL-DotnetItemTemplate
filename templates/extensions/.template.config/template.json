@@ -4,7 +4,7 @@
   "classifications": [ "Common", "Code" ],
   "identity": "Company.Namespace.ItemTempalteName",
   "name": "Company.Namespace.ItemTempalteName",
-  "shortName": "mycustlib",
+  "shortName": "shortName",
   "tags": {
     "language": "C#",
     "type": "item"

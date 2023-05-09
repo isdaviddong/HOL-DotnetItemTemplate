@@ -13,7 +13,7 @@
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <ContentTargetFolders>content</ContentTargetFolders>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Company>Company Name</Company>
+    <Company>公司名稱</Company>
     <Version>1.0.18</Version>
     <Product>Product Name</Product>
     <Copyright>Copyright</Copyright>
